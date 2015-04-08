@@ -1,0 +1,27 @@
+{
+  "name": "express-markdown",
+  "version": "0.0.1",
+  "description": "Express.js view engine for markdown",
+  "main": "./bin/md.js",
+  "scripts": {
+    "test": "./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattMcFarland/express-markdown.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "view",
+    "engine",
+    "markdown",
+    "template"
+  ],
+  "author": "Matt McFarland <contact@mattmcfarland.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattMcFarland/express-markdown/issues"
+  },
+  "homepage": "https://github.com/MattMcFarland/express-markdown"
+}
