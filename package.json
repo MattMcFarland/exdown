@@ -1,6 +1,6 @@
 {
   "name": "exdown",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Express.js view engine for markdown with EJS template functionality",
   "main": "bin/md.js",
   "directories": {
@@ -24,9 +24,9 @@
   "author": "Matt McFarland <contact@mattmcfarland.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MattMcFarland/express-markdown/issues"
+    "url": "https://github.com/MattMcFarland/exdown/issues"
   },
-  "homepage": "https://github.com/MattMcFarland/express-markdown",
+  "homepage": "https://github.com/MattMcFarland/exdown",
   "dependencies": {
     "ejs": "^2.3.1",
     "lodash": "^3.6.0",
@@ -34,7 +34,7 @@
     "walk": "^2.3.9"
   },
   "engines": {
-    "node": ">= 0.12.0"
+    "node": ">= 0.10.0"
   },
   "devDependencies": {
     "assert": "^1.3.0",
