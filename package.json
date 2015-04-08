@@ -1,6 +1,6 @@
 {
   "name": "exdown",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "Express.js view engine for markdown with EJS template functionality",
   "main": "bin/md.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MattMcFarland/express-markdown.git"
+    "url": "https://github.com/MattMcFarland/exdown.git"
   },
   "keywords": [
     "node",

@@ -1,6 +1,6 @@
-# express-markdown [![Build Status](https://travis-ci.org/MattMcFarland/express-markdown.svg?branch=v0.1.5)](https://travis-ci.org/MattMcFarland/express-markdown)
+# exdown [![Build Status](https://travis-ci.org/MattMcFarland/exdown.svg?branch=v0.1.6)](https://travis-ci.org/MattMcFarland/exdown)
 
-[Express.js](http://github.com/visionmedia/express) view engine for Markdown with EJS templating.
+[Express.js](http://github.com/visionmedia/express) view engine for Markdown with `EJS` templating and HTML support.
 
 ## Install ##
 
