@@ -1,4 +1,4 @@
-# express-markdown [![Build Status](https://travis-ci.org/MattMcFarland/express-markdown.svg?branch=master)](https://travis-ci.org/MattMcFarland/express-markdown)
+# express-markdown [![Build Status](https://travis-ci.org/MattMcFarland/express-markdown.svg?branch=v0.1.5)](https://travis-ci.org/MattMcFarland/express-markdown)
 
 [Express.js](http://github.com/visionmedia/express) view engine for Markdown with EJS templating.
 
