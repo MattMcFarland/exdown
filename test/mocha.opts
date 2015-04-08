@@ -1,0 +1,4 @@
+--ui qunit
+--reporter list
+--bail
+--timeout 16000
