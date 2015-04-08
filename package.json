@@ -1,10 +1,13 @@
 {
   "name": "express-markdown",
-  "version": "0.0.1",
-  "description": "Express.js view engine for markdown",
-  "main": "./bin/md.js",
+  "version": "0.1.0",
+  "description": "Express.js view engine for markdown with EJS template functionality",
+  "main": "bin/md.js",
+  "directories": {
+    "bin": "./bin"
+  },
   "scripts": {
-    "test": "./test/index.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -23,5 +26,20 @@
   "bugs": {
     "url": "https://github.com/MattMcFarland/express-markdown/issues"
   },
-  "homepage": "https://github.com/MattMcFarland/express-markdown"
+  "homepage": "https://github.com/MattMcFarland/express-markdown",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "lodash": "^3.6.0",
+    "marked": "^0.3.3",
+    "walk": "^2.3.9"
+  },
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.3",
+    "npm": "^2.7.5",
+    "request": "^2.55.0"
+  }
 }
