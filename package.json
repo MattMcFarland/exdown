@@ -1,5 +1,5 @@
 {
-  "name": "express-markdown",
+  "name": "exdown",
   "version": "0.1.2",
   "description": "Express.js view engine for markdown with EJS template functionality",
   "main": "bin/md.js",

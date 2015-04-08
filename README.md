@@ -5,7 +5,7 @@
 ## Install ##
 
 ```
-npm install express-markdown
+npm install exdown
 ```
 
 ## Use ##
