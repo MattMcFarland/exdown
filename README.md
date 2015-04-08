@@ -1,4 +1,4 @@
-# exdown [![Build Status](https://travis-ci.org/MattMcFarland/exdown.svg?branch=v0.1.7)](https://travis-ci.org/MattMcFarland/exdown)
+# exdown [![Build Status](https://travis-ci.org/MattMcFarland/exdown.svg?branch=master)](https://travis-ci.org/MattMcFarland/exdown)
 
 [Express.js](http://github.com/visionmedia/express) view engine for Markdown with `EJS` templating and HTML support.
 
